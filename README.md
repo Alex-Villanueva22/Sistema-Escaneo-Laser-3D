@@ -26,3 +26,6 @@ El reto consistió en crear un puente funcional entre el mundo físico y el digi
 * **Láser:** Genera la sección transversal del objeto.
 * **Fondo B/N:** Proporciona los puntos de referencia para la profundidad.
 * **Software:** Procesa la deformación de la línea láser para calcular el volumen.
+
+## 🎓 Contexto Académico
+Proyecto desarrollado para la asignatura de **Computación Visual**.
